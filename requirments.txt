@@ -1,0 +1,6 @@
+streamlit
+pandas
+json
+pycaret.clustering.load_model
+pycaret.clustering.predict_model
+plotly.express
