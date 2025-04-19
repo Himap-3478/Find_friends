@@ -1,6 +1,4 @@
 streamlit
 pandas
-json
-pycaret.clustering.load_model
-pycaret.clustering.predict_model
+pycaret
 plotly.express
